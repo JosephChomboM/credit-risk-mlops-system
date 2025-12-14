@@ -51,3 +51,10 @@ This repository is designed to demonstrate:
    - Log predictions and inputs  
    - Simple drift / data-quality checks  
    - Basic dashboards / reports (even offline, via notebook or script)
+
+- **Phase 1 (Dec 14 – Dec 31)**  
+  - Define business problem and success metrics  
+  - Download and document dataset (see [Issue #1](https://github.com/JosephChomboM/credit-risk-mlops-system/issues/1))  
+  - Build EDA notebook (see [Issue #2](https://github.com/JosephChomboM/credit-risk-mlops-system/issues/2))  
+  - Implement config-driven baseline training script (see [Issue #3](https://github.com/JosephChomboM/credit-risk-mlops-system/issues/3))  
+  - Make training reproducible via configs and scripts
